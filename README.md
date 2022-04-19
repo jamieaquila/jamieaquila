@@ -1,5 +1,3 @@
-<!---
-
 Technologist. Designer. Architect.
 -  4x Tech Startup CTO
 -  Lead Technologist @ Humareso
@@ -28,6 +26,3 @@ Agile Methodologies, Team Building, Project Management, Product Lifecycle, UX/UI
 Jersey native residing in Music City, USA. Alt rock junkie. Head chef at hotel Aquilanake. Devils hockey with a side of NYM. 
 
 More HomeKit devices than Craig Federighi.
-
-
---->
